@@ -1,0 +1,5 @@
+#dashboard {
+  display: flex;
+  width: 1080px;
+  justify-content: space-between;
+}
